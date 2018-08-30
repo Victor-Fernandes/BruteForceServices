@@ -1,2 +1,2 @@
 # BruteForceServices
-Scritp for bruteforce atacks in ftp or ssh.
+Scritp for bruteforce attacks in ftp or ssh.
